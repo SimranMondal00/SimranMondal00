@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Simran Mondal</h1>
-<h3 align="center">A passionate frontend developer </h3>
+<h3 align="center">A Java developer </h3>
 
 
 - 🔭 I’m currently working on **React based web apps**
