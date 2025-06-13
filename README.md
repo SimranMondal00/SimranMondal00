@@ -2,57 +2,100 @@
   👋 Hi, I'm Simran Mondal
 </h1>
 <h3 align="center" style="color:#8892b0; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  Full Stack Java Developer &nbsp;•&nbsp; DevOps Explorer &nbsp;•&nbsp; UI/UX Enthusiast
+  Full Stack Java Developer • DevOps Explorer • UI/UX Enthusiast
 </h3>
 
 ---
 
 ### 👩‍💻 About Me
 
-- 💻 Building scalable apps using **Spring Boot** and **React.js**
-- 🌱 Exploring **DevOps** tools: AWS, Docker, GCP, Jenkins, Terraform
-- 🎯 Solved **200+ LeetCode** problems | **5⭐ Java** on HackerRank
-- 🧩 Strong interest in UI/UX and backend architecture
+- 💻 Building fast, scalable web apps using **Spring Boot**, **React.js**, and **Node.js**
+- ☁️ Exploring the world of **DevOps** with AWS, Docker, GCP, Jenkins, and Terraform
+- 🎯 Solved **200+ LeetCode** challenges | **5⭐ Java** on HackerRank
+- 🎨 Passionate about clean UI, intuitive UX, and backend architecture
+- ### 📬 Connect with Me
+
+<p align="left">
+  <a href="mailto:simranmondal101@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/simran-mondal-0054361a2">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/SimranMondal00">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-#### 💬 Programming Languages  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,cpp" />
-</p>
+<table align="center" style="width:100%; border: none;">
+  <tr>
+    <td><strong>💻 Programming Languages</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=java" width="30px"/>
+      <img src="https://skillicons.dev/icons?i=python" width="30px"/>
+      <img src="https://skillicons.dev/icons?i=javascript" width="30px"/>
+      <img src="https://skillicons.dev/icons?i=cpp" width="30px"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>🌐 Frontend</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react" width="30px"/>
+      <img src="https://skillicons.dev/icons?i=nextjs" width="30px"/>
+      <img src="https://skillicons.dev/icons?i=tailwind" width="30px"/>
+      <img src="https://skillicons.dev/icons?i=html" width="30px"/>
+      <img src="https://skillicons.dev/icons?i=css" width="30px"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>🧰 Backend</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=spring" width="30px"/>
+      <img src="https://skillicons.dev/icons?i=nodejs" width="30px"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>☁️ Cloud & DevOps</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=aws" width="30px"/>
+      <img src="https://skillicons.dev/icons?i=gcp" width="30px"/>
+      <img src="https://skillicons.dev/icons?i=docker" width="30px"/>
+      <img src="https://skillicons.dev/icons?i=jenkins" width="30px"/>
+      <img src="https://skillicons.dev/icons?i=terraform" width="30px"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>🖥️ Operating Systems</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=linux" width="30px"/>
+      <img src="https://skillicons.dev/icons?i=windows" width="30px"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>🗃️ Databases</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql" width="30px"/>
+      <img src="https://skillicons.dev/icons?i=postgres" width="30px"/>
+      <img src="https://skillicons.dev/icons?i=mongodb" width="30px"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>🔧 Tools & Utilities</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git" width="30px"/>
+      <img src="https://skillicons.dev/icons?i=github" width="30px"/>
+      <img src="https://skillicons.dev/icons?i=vscode" width="30px"/>
+      <img src="https://skillicons.dev/icons?i=postman" width="30px"/>
+      <img src="https://skillicons.dev/icons?i=figma" width="30px"/>
+      <img src="https://skillicons.dev/icons?i=photoshop" width="30px"/>
+    </td>
+  </tr>
+</table>
 
-#### 🌐 Frontend Development  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
-</p>
-
-#### 🧰 Backend Development  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,nodejs" title="Spring / Spring Boot / Node.js" />
-</p>
-<sub><strong>Frameworks:</strong> Spring, Spring Boot, Node.js</sub>
-
-#### ☁️ Cloud & DevOps  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,jenkins,terraform" />
-</p>
-
-#### 🖥️ Operating Systems  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,windows" />
-</p>
-
-#### 🗃️ Databases  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
-</p>
-
-#### 🛠️ Tools & Utilities  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postman,git,github,vscode,figma,photoshop" />
-</p>
 
 ---
 
@@ -85,32 +128,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=SimranMondal00&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&border_radius=12" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimranMondal00&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" width="48%" />
 </p>
-
----
-
-### 📬 Connect with Me
-
-<p align="left">
-  <a href="mailto:simranmondal101@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/simran-mondal-0054361a2">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/SimranMondal00">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-### 🧪 Currently Exploring
-
-| Domain     | Proficiency                    |
-|------------|--------------------------------|
-| Backend    | ⭐⭐⭐⭐☆                          |
-| Frontend   | ⭐⭐⭐⭐☆                          |
-| DevOps     | ⭐⭐☆☆☆ *(learning: Docker, AWS, GCP)* |
 
 ---
 
