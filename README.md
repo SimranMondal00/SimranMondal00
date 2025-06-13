@@ -1,74 +1,117 @@
-<h1 align="center">Hi 👋, I'm Simran Mondal</h1>
-<h3 align="center">A Passionate Full Stack Developer</h3>
+<h1 align="center" style="color:#00C9A7; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size:3em;">
+  👋 Hi, I'm Simran Mondal
+</h1>
+<h3 align="center" style="color:#8892b0; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  Full Stack Java Developer &nbsp;•&nbsp; DevOps Explorer &nbsp;•&nbsp; UI/UX Enthusiast
+</h3>
 
-<p align="center">
-  <img src="https://media.tenor.com/ITc1hNBSH_wAAAAM/coding-typing.gif" alt="coding typing" width="500"/>
-</p>
+---
 
-- 🔭 I’m currently working on **React based web apps**
+### 👩‍💻 About Me
 
-- 🌱 I’m currently learning **DevOps practices and tools**
+- 💻 Building scalable apps using **Spring Boot** and **React.js**
+- 🌱 Exploring **DevOps** tools: AWS, Docker, GCP, Jenkins, Terraform
+- 🎯 Solved **200+ LeetCode** problems | **5⭐ Java** on HackerRank
+- 🧩 Strong interest in UI/UX and backend architecture
 
-- 👯 I’m looking to collaborate on **FrontEnd projects**
+---
 
-- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/SimranMondal00)
+### 🛠️ Tech Stack
 
-- 💬 Ask me about **Java, React, and Frontend Development**
-
-- 📫 How to reach me **simranmondal101@gmail.com**
-
-- ⚡ Fun fact **I love to solve coding challenges on HackerRank**
-
-<h3 align="left">Connect with me:</h3>
+#### 💬 Programming Languages  
 <p align="left">
-<a href="https://linkedin.com/in/simran-mondal-0054361a2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="simran-mondal-0054361a2" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,cpp" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+#### 🌐 Frontend Development  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+</p>
+
+#### 🧰 Backend Development  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,nodejs" title="Spring / Spring Boot / Node.js" />
+</p>
+<sub><strong>Frameworks:</strong> Spring, Spring Boot, Node.js</sub>
+
+#### ☁️ Cloud & DevOps  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,jenkins,terraform" />
+</p>
+
+#### 🖥️ Operating Systems  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,windows" />
+</p>
+
+#### 🗃️ Databases  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+</p>
+
+#### 🛠️ Tools & Utilities  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postman,git,github,vscode,figma,photoshop" />
+</p>
+
+---
+
+### 💼 Work Experience
+
+**Backend Developer Intern** — *Instapick (Remote)*  
+📅 *Dec 2024 – Mar 2025*  
+- Worked extensively with the **MERN stack** (MongoDB, Express.js, React.js, Node.js) to build dynamic, full-stack applications  
+- Developed and deployed scalable backend solutions using **Google Cloud Platform (GCP)** and **Cloud Storage** for secure and efficient data handling  
+- Integrated **Twilio** services for OTP verification and user authentication  
+- Contributed to the development of both **customer** and **merchant** applications for seamless user experience  
+- Designed and implemented **admin panels** for data analytics, real-time monitoring, and streamlined management  
+- Conducted **end-to-end testing** and deployment to ensure performance, reliability, and scalability across all systems  
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|--------|
+| [**JobHive**](https://github.com/SimranMondal00/JobHive) | Secure job portal with full CRUD and responsive UI. | Spring Boot, React.js, PostgreSQL |
+| [**ChitChat**](https://github.com/SimranMondal00/ChitChat) | Real-time chat with WebSocket and Spring backend. | Spring Boot, WebSocket, Bootstrap |
+| [**InkSpot**](https://github.com/SimranMondal00/InkSpot) | A blogging app with authentication & CRUD features. | React, Tailwind CSS, Appwrite |
+
+---
+
+### 📈 GitHub Stats
+
 <p align="center">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SimranMondal00&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&border_radius=12" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimranMondal00&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" width="48%" />
+</p>
+
+---
+
+### 📬 Connect with Me
+
+<p align="left">
+  <a href="mailto:simranmondal101@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <a href="https://linkedin.com/in/simran-mondal-0054361a2">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
+  <a href="https://github.com/SimranMondal00">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
-<div style="display: flex; justify-content: space-between;">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=simranmondal00&show_icons=true&locale=en&layout=compact" alt="simranmondal00" style="width: 45%;" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=simranmondal00&show_icons=true&locale=en" alt="simranmondal00" style="width: 45%;" />
-</div>
+---
+
+### 🧪 Currently Exploring
+
+| Domain     | Proficiency                    |
+|------------|--------------------------------|
+| Backend    | ⭐⭐⭐⭐☆                          |
+| Frontend   | ⭐⭐⭐⭐☆                          |
+| DevOps     | ⭐⭐☆☆☆ *(learning: Docker, AWS, GCP)* |
+
+---
+
+<p align="center"><i>“Build what matters, learn what inspires.”</i></p>
